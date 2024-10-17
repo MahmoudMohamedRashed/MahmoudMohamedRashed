@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Mohamed Rashed</h1>
-<h3 align="center">Student at Assiut University, Faculty of Electrical Engineering, Department of Computer and Control System. I have good knowledge in Embedded System , Software and Algorithm using (C \ C++) , Some applications such as (Matlab , Proteus , Altium Designer , Logic Works , Packet tracer , NI Multisim) , I have good knowledge also in Data Structure and Algorithm of Encryptio</h3>
+<h3 align="center">Student at Assiut University, Faculty of Electrical Engineering, Department of Computer and Control System. I have good knowledge in Embedded System , Software and Algorithm using (C \ C++) , Some applications such as (Matlab , Proteus , Altium Designer , Logic Works , Packet tracer , NI Multisim) , I have good knowledge also in Data Structure and Algorithm of Encryption</h3>
 
 - 🌱 I’m currently learning **Embedded System and Software Engineering**
 
